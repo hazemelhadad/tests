@@ -3,6 +3,5 @@ flask
 tensorflow==2.11
 pillow
 numpy
-protobuf
 keras
 protobuf==3.9.2
